@@ -1,5 +1,5 @@
 # Bamboo Dockerfile
-Build docker image for Bamboo Server. Bamboo server version can be modified using BAMBOO_VERSION varibale. The default version is 5.14.1.
+Build docker image for Bamboo Server. Bamboo server version can be modified using BAMBOO_VERSION variable. The default version is 5.14.1.
 # Usage 
 docker build -t bamboo .
 
